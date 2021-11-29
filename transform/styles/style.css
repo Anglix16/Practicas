@@ -1,0 +1,16 @@
+div{
+    border: 2px solid purple;  
+    width: 100px;
+    height: 150px;
+   
+}
+.p1{
+    transform: translate(170px,230px);
+}
+.p2{
+  transform: scaleX(.7);
+}
+.p3{
+    
+    transform: skew(15deg, 20deg);
+}
